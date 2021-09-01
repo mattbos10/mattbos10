@@ -1,7 +1,5 @@
 ### Hi there, I'm Matt - aka [mattbos10][website] 👋
 
-[![Website](https://mattbos10.github.io/)](https://mattbos10.github.io/)
-
 ## I'm a Junior Web Developer!!
 
 - 🔭 I'm currently attending the BCSkills Coding Academy!
