@@ -1,4 +1,4 @@
-### Hi there, I'm Matt - aka [mattbos10][website] 👋 <img align="left" alt="logo" width="26px" src="https://mattbos10.github.io/img/logo/dark.png" />
+### Hi there, I'm Matt - aka [mattbos10][website] 👋 <img align="right" alt="logo" width="150px" src="https://mattbos10.github.io/img/logo/dark.png" />
 
 
 ## I'm a Junior Web Developer!!
