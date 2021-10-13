@@ -1,4 +1,5 @@
-### Hi there, I'm Matt - aka [mattbos10][website] 👋
+### Hi there, I'm Matt - aka [mattbos10][website] 👋 <img align="left" alt="logo" width="26px" src="https://mattbos10.github.io/img/logo/dark.png" />
+
 
 ## I'm a Junior Web Developer!!
 
@@ -40,6 +41,4 @@
 [linkedin]: https://www.linkedin.com/in/mattbos10/
 
 # mattbos10
-
-<img align="left" alt="logo" width="26px" src="https://mattbos10.github.io/img/logo/dark.png" />
 
